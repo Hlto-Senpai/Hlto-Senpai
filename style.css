@@ -1,0 +1,85 @@
+*{
+    padding: 0 0;
+    margin: 0 0;
+    box-sizing: border-box;
+}
+body{
+    margin: 30px 0;
+    padding: 0 0;
+    font-family: 'Work Sans', sans-serif;
+    height: 1500px;
+}
+.big-cont{
+    width: 1519px;
+    margin: 0 auto;
+}
+nav{
+    margin-left: 125px;
+    display: flex;
+    align-items: center;
+}
+.box1 img{
+    width: 50px;
+}
+.box1 a{
+    text-decoration: none;
+    font-size: 26px;
+    line-height: 43px;
+    font-weight: 500;
+}
+.box1{
+    display: flex;
+    margin-right: 175px;
+}
+.box2 a{
+    text-decoration: none;
+    color: rgba(34, 34, 34, 1);
+    margin-right: 40px;
+}
+.box2 a:first-child{
+    color: rgba(0, 130, 243, 1);
+}
+.middle-cont{
+    margin: 0 210px;
+    color: rgba(51, 51, 51, 1);
+}
+.box3 h2{
+    font-size: 42px;
+    font-weight: 400;
+}
+.box3 p{
+    font-size: 18px;
+    font-weight: 500;
+    margin: 25px 0;
+}
+.box3 img{
+    width: 115px;
+}
+.box3 {
+    margin-top: 150px;
+}
+.cont1{
+    display: flex;
+    justify-content: space-between;
+}
+.box4 img{
+    width: 400px;
+}
+.box3 span{
+    background-color: 
+    rgba(57, 205, 204, 1);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+border-radius: 0px 6px 6px 0px;
+padding: 10px 23px;
+color: black;
+font-size: 12px;
+position: relative;
+left: -85px;
+top: 247px;
+}
+.box3 div{
+transform: rotate(90deg);
+position: fixed;    
+
+    
+}
